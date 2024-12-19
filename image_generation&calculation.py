@@ -9,10 +9,10 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #File Reader
-stock=pd.read_csv("C:/Users/shukl/breakoutaiproject/file_uploaders/Tesla.csv")
+stock=pd.read_csv("Add the file path containg file")
 
 # File path for saving the plot
-save_path = "C:/Users/shukl/breakoutaiproject/graph/"
+save_path = "Add the file path to store images"
 
 # Check if the directory exists, and create it if not
 if not os.path.exists(save_path):
