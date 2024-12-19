@@ -60,7 +60,7 @@ if file_uploader is not None:
     
 
     # Folder path containing the images
-    folder_path = "C:/Users/shukl/breakoutaiproject/graph/"  
+    folder_path = "Add the folder path containing graph"  
     
     def analyze_images_in_folder(folder_path):
         """
